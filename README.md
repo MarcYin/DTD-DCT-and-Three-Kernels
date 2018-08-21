@@ -22,6 +22,6 @@ And adding the temporal and/or sptatial constrain to solve:
 \left(\mathbf{A} + \gamma^{2}\mathbf{D}^{\top}\mathbf{D}\right)\mathbf{x} = \mathbf{b}
 \end{equation*}
 
-![](./Chapter\ 1\ On\ the\ resolving\ DCT\,\ DTD\ and\ Three\ Kernels\ problem.ipynb)
+[![Notebook]](./Chapter\ 1\ On\ the\ resolving\ DCT\,\ DTD\ and\ Three\ Kernels\ problem.ipynb)
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/MarcYin/DTD-DCT-and-Three-Kernels/master)
