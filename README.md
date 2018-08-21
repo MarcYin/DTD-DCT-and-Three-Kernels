@@ -13,6 +13,8 @@ In this chapter, I am trying to find an analytical way of calculating Observatio
 \mathbf{A}{\mathbf{x}}=\mathbf{b}
 \end{equation*}
 
+![alt text](https://latex.codecogs.com/gif.download?%5Cmathbf%7BA%7D%5Cmathbf%7Bx%7D%20%3D%20%5Cmathbf%7Bb%7D)
+
 Particularly, with an example of solving the kernel inversion of BRDF from MODIS observations with nearly a years observations.
 
 And adding the temporal and/or sptatial constrain to solve:
